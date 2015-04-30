@@ -1,0 +1,21 @@
+{
+  "name": "Daghapp",
+  "version": "0.0.1",
+  "authors": [
+    "Tom Hutman <tom@charliebravo.nl>"
+  ],
+  "description": "App that gets daghap data from xml",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
